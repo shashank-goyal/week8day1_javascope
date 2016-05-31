@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/understand scope.iml" filepath="$PROJECT_DIR$/.idea/modules/understand scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/understand_scope_main.iml" filepath="$PROJECT_DIR$/.idea/modules/understand_scope_main.iml" group="understand scope" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/understand_scope_test.iml" filepath="$PROJECT_DIR$/.idea/modules/understand_scope_test.iml" group="understand scope" />
+    </modules>
+  </component>
+</project>
